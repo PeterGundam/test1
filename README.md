@@ -1,6 +1,8 @@
 
 # test1
-![GitHub all releases](https://img.shields.io/github/downloads/PeterGundam/test1/total?logo=green&logoColor=green&label=Gundam&labelColor=green&color=green)
+
+These are called badges: you can create some here : https://shields.io/
+![GitHub all releases](https://img.shields.io/github/dowloads/PeterGundam/test1/total?logo=green&logoColor=green&label=Gundam&labelColor=green&color=green)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
 
 
