@@ -4,6 +4,8 @@
 These are called badges: you can create some here : https://shields.io/
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
+![Static Badge](https://img.shields.io/badge/Gundam-x102-blue)
+
 
 
 | Item         | Price | # In stock |
